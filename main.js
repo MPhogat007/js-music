@@ -22,7 +22,7 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Flo Rida",
+    name: "Dhruv paratha",
     artist: "Low ft. Tpain",
     path: "Tracks/Florida.mp3"
   },
